@@ -1,6 +1,6 @@
 # Élections Législatives 2024
 
-Quelques données sur les élections législatives françaises de 2024. 
+Quelques données sur les élections législatives françaises de 2024 issues de l'opendata du Ministère de l'Intérieur. 
 
 ## Contenu du Dépôt
 
